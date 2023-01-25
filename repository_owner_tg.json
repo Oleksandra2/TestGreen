@@ -1,7 +1,6 @@
 {
   "my-tutorials-repo":{
-    "name":"notAssatrua"
-    
+    "name":"notAssatrua" 
   },
     "TestGreen":{
     "name":"Oleksandra2"
@@ -21,5 +20,14 @@
     "TestGreenNew":{
     "name":"Oleksandra2"
     "email":"oleksandra.kovtunenko@sap.com"
+  },
+    "QAGreenRedesign":{
+    "name":"Oleksandra2"
+    "email":"oleksandra.kovtunenko@sap.com"
+  },
+    "QAGreen":{
+    "name":"Oleksandra2"
+    "email":"oleksandra.kovtunenko@sap.com"
   }
+
 }
