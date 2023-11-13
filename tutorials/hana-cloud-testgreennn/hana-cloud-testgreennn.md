@@ -7,7 +7,7 @@ time: 15
 ---
 
 ## Prerequisites  
-- This tutorial is designed for SAP HANA Cloud.
+- This tutorial is designed for SAP HANA Cloud
 - **Tutorials:** [Creating Stored Procedures](hana-cloud-sqlscript-stored-proc)
 
 ## Details
