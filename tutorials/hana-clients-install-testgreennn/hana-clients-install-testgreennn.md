@@ -1,5 +1,5 @@
 ---
-title: Test Green Install the SAP HANA Client testgreennn
+title: Test Green Install the SAP HANA Client testgreennn o
 description: Learn about the multiple ways to install the SAP HANA client.
 auto_validation: true
 time: 10
