@@ -10,7 +10,6 @@ creator_name: Oleksandra K.
 creator_profile: https://github.com/Oleksandra2
 parser: v2
 keywords: validation, parser v2 
-contributors: [ Dmytro Ivanov > https://github.com/IvanovDmytroA ]
 ---
 
 #                     Title Title from the Tutorial body upd
