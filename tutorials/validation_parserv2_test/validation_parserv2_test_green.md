@@ -10,6 +10,7 @@ creator_name: Oleksandra K.
 creator_profile: https://github.com/Oleksandra2
 parser: v2
 keywords: validation, parser v2 
+contributors: [ Test Test > https://github.com/BigotryOps ]
 ---
 
 #                     Title Title from the Tutorial body upd
